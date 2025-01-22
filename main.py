@@ -18,4 +18,4 @@ plugins = dict(root="plugins")
 Client("x",
 api_id=3895828,
 api_hash="5229902a14b2512c35688aa152bd9f29",
-bot_token="7742576990:AAHk9uKU1Cmbtzi3ZmiaemwJfrw9RA4xuCc", plugins=plugins).run()
+bot_token="7759038952:AAFc4qckg1rVWAWwEAyuNKmy17W7gyviS7s", plugins=plugins).run()
